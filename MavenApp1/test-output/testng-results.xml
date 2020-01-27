@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="26933" started-at="2020-01-26T11:34:30Z" finished-at="2020-01-26T11:34:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="26933" started-at="2020-01-26T11:34:30Z" finished-at="2020-01-26T11:34:57Z">
+      <class name="com.vtiger.testScript.CreateOrganizationTest">
+        <test-method status="PASS" signature="connnectDB()[pri:0, instance:com.vtiger.testScript.CreateOrganizationTest@402a079c]" name="connnectDB" is-config="true" duration-ms="33" started-at="2020-01-26T11:34:30Z" finished-at="2020-01-26T11:34:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connnectDB -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.vtiger.testScript.CreateOrganizationTest@402a079c]" name="openBrowser" is-config="true" duration-ms="8253" started-at="2020-01-26T11:34:30Z" finished-at="2020-01-26T11:34:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.vtiger.testScript.CreateOrganizationTest@402a079c]" name="login" is-config="true" duration-ms="3336" started-at="2020-01-26T11:34:38Z" finished-at="2020-01-26T11:34:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="organizationGenerationTest()[pri:0, instance:com.vtiger.testScript.CreateOrganizationTest@402a079c]" name="organizationGenerationTest" duration-ms="10764" started-at="2020-01-26T11:34:42Z" finished-at="2020-01-26T11:34:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- organizationGenerationTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:com.vtiger.testScript.CreateOrganizationTest@402a079c]" name="logout" is-config="true" duration-ms="1099" started-at="2020-01-26T11:34:53Z" finished-at="2020-01-26T11:34:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.vtiger.testScript.CreateOrganizationTest@402a079c]" name="closeBrowser" is-config="true" duration-ms="3395" started-at="2020-01-26T11:34:54Z" finished-at="2020-01-26T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="closeDB()[pri:0, instance:com.vtiger.testScript.CreateOrganizationTest@402a079c]" name="closeDB" is-config="true" duration-ms="0" started-at="2020-01-26T11:34:57Z" finished-at="2020-01-26T11:34:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDB -->
+      </class> <!-- com.vtiger.testScript.CreateOrganizationTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
