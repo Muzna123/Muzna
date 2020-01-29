@@ -33,7 +33,7 @@ public class CreateCampaignTest extends BaseClass {
 		String actText = cip.successMsgtext();
 		String expText = f.getExcelData("Sheet1", 1, 1);
 		if (actText.contains(expText)) {
-			System.out.println("Campaign created Successfully");
+			System.out.println("Campaign created Successfullyy");
 		} else {
 			System.out.println("Test Case Fail");
 		}
